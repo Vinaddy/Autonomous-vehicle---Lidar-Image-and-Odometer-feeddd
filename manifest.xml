@@ -1,0 +1,18 @@
+<package>
+  <description brief="hackathon">
+
+     hackathon
+
+  </description>
+  <author>Vishnu Sashank Dorbala</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/hackathon</url>
+  <depend package="std_msgs"/>
+  <depend package="rospy"/>
+  <depend package="roscpp"/>
+  <depend package="turtlebot3_gazebo"/>
+
+</package>
+
+
